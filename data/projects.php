@@ -1,0 +1,40 @@
+<?php
+return   [
+    [
+        'name' => 'Project 1',
+        'description' => 'Description 1',
+        'image' => 'project-1.jpg',
+        'slug' => 'project-1',
+        'category' => 'development',
+        'year' => '2020',
+        'location'  => 'Paris, France',
+        'services' => 'Web Development',
+        'url' => 'https://www.project1.com',
+        'featured' => true,
+    ],
+    [
+        'name' => 'Project 2',
+        'description' => 'Description 2',
+        'image' => 'project-1.jpg',
+        'slug' => 'project-2',
+        'category' => 'development',
+        'year' => '2020',
+        'location'  => 'Paris, France',
+        'services' => 'Web Development',
+        'url' => 'https://www.project2.com',
+        'featured' => true,
+    ],
+    [
+        'name' => 'Project 3',
+        'description' => 'Description 3',
+        'image' => 'project-1.jpg',
+        'slug' => 'project-3',
+        'category' => 'design',
+        'year' => '2020',
+        'location'  => 'Paris, France',
+        'services' => 'Web Development',
+        'url' => 'https://www.project3.com',
+        'featured' => false,
+    ],
+];
+
