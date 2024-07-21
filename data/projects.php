@@ -1,7 +1,7 @@
 <?php
 return   [
     [
-        'name' => 'Project 1',
+        'name' => 'FACE ID',
         'description' => 'Description 1',
         'image' => 'project-1.jpg',
         'slug' => 'project-1',
@@ -13,7 +13,7 @@ return   [
         'featured' => true,
     ],
     [
-        'name' => 'Project 2',
+        'name' => 'DASHBOARD',
         'description' => 'Description 2',
         'image' => 'project-1.jpg',
         'slug' => 'project-2',
